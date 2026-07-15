@@ -1,0 +1,4 @@
+Rice 500
+Oil 200
+Milk 60
+Bread 40

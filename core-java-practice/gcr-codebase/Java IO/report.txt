@@ -1,0 +1,6 @@
+Name: Mayank Average: 80.0
+Name: Aman Average: 70.0
+Name: Rahul Average: 90.0
+Name: Mayank Average: 80.0
+Name: Aman Average: 70.0
+Name: Rahul Average: 90.0
